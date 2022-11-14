@@ -1,0 +1,132 @@
+body{
+    width: 1440px;
+height: 1700px;
+ background-color: #e8e8e8; 
+}
+.travel{
+    width: 1190px;
+    height: 1064px;
+ 
+    margin: 106px 142px 0 108px;
+  background-image: url('../ellipse.png');
+  opacity: 0.84;
+}
+.tittle{
+     
+    text-align: center;
+margin-top: 62px;
+    
+opacity: 0.6;
+font-family: Arial;
+font-size: 14px;
+line-height: 40px;
+font-weight: 500;
+text-transform: uppercase;
+letter-spacing: 0.2em;
+color: #273d46;
+}
+.tittle2{
+      
+    text-align: center;
+width: 723px;
+    font-weight: 400;
+	font-size: 36px;
+    
+    font-family: 'Times New Roman';
+    
+    line-height: 50px;
+
+    color: #273d46;
+    margin: 23px 0px 77px 206px;
+}
+
+.travel img{
+  
+    width: 821px;
+height: 541px;
+border: 10px solid rgb(255, 255, 255);
+margin-left: 157px;
+
+}
+.travel .section_text{
+    margin: 0 0px 0 192px;
+}
+
+.text p{
+    
+    margin-top: 70px;
+    width: 746px;
+    opacity: 0.8;
+font-family: 'Times New Roman';
+font-size: 24px;
+line-height: 40px;
+font-weight: 400;
+color: #273d46;
+}
+
+.points{
+    padding-top:64px ;
+}
+
+.point {
+    display: flex;
+    padding-top:13px ;
+    
+}
+
+.point p {
+    padding-left:11px;
+}
+
+#p1{ 
+   
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 400;
+    text-shadow: 0px 1px 0px rgba(0,0,0,0.3);
+    color: #273d46;
+}
+
+#p2{
+    font-family: Arial;
+font-size: 20px;
+line-height: 36px;
+font-weight: 400;
+font-style: italic;
+color: #80b7b3;
+}
+#p3{
+    font-family: Arial;
+font-size: 20px;
+line-height: 36px;
+font-weight: 700;
+color: #273d46;
+}
+
+#p4{
+    opacity: 0.3;
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 400;
+    text-decoration: line-through;
+    color: #273d46;
+}
+
+button{
+    border-radius: 20px;
+    width: 199px;
+height: 44px;
+box-shadow: 0px 6px 40px 0px rgba(128,183,179,0.54);
+margin-top: 50px;
+margin-bottom: 137px;
+background: #80b7b3;
+color: white;
+font-family: Arial;
+font-size: 14px;
+line-height: 40px;
+font-weight: 400;
+text-transform: uppercase;
+letter-spacing: 0.2em;
+}
